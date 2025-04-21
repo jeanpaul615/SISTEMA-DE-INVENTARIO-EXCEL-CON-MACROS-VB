@@ -1,6 +1,3 @@
-Aquí tienes un ejemplo de un archivo `README.md` atractivo y bien estructurado para tu repositorio **SISTEMA-DE-INVENTARIO-EXCEL-CON-MACROS-VB**:
-
----
 
 # Sistema de Inventario en Excel con Macros (VB) 📊
 
