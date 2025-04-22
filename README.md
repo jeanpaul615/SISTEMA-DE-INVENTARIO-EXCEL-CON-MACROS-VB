@@ -50,24 +50,3 @@ Este sistema de inventario está diseñado para ayudar a gestionar productos, ca
 
 Si necesitas personalizar el sistema según tus necesidades específicas, puedes editar el código VBA directamente. El proyecto está diseñado para ser modular y fácil de modificar.
 
----
-
-## 🤝 **Contribuciones**
-
-¡Las contribuciones son bienvenidas! Si encuentras errores o tienes ideas para mejorar el sistema, no dudes en abrir un [issue](https://github.com/jeanpaul615/SISTEMA-DE-INVENTARIO-EXCEL-CON-MACROS-VB/issues) o enviar un [pull request](https://github.com/jeanpaul615/SISTEMA-DE-INVENTARIO-EXCEL-CON-MACROS-VB/pulls).
-
----
-
-## 📧 **Contacto**
-
-Si tienes preguntas o necesitas soporte, puedes contactarme en [salazarjean2003@gmail.com](mailto:salazarjean2003@gmail.com).
-
----
-
-## 📜 **Licencia**
-
-Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](https://github.com/jeanpaul615/SISTEMA-DE-INVENTARIO-EXCEL-CON-MACROS-VB/blob/main/LICENSE).
-
----
-
-Con esto, tu archivo `README.md` será profesional y útil para los usuarios y colaboradores. ¿Te gustaría agregar algo más o ajustar alguna sección? 😊
